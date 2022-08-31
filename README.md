@@ -2,7 +2,7 @@
 Structured roadmap &amp; tips of Research and Development in Web3 field
 
 
-# Ethereum section:
+## Ethereum section:
 
 - [ ] [Ethereum Basics](https://ethereum.org/en/developers/docs/intro-to-ethereum/)
 - [ ] [What is Ethereum Virtual Machine(EVM)?](https://moralis.io/evm-explained-what-is-ethereum-virtual-machine/)
@@ -10,10 +10,11 @@ Structured roadmap &amp; tips of Research and Development in Web3 field
 - [ ] [Fees and how GAS works](https://ethereum.org/en/developers/docs/gas/)
 - [ ] [Introduction to Smart Contracts](https://www.simplilearn.com/tutorials/blockchain-tutorial/what-is-smart-contract)
 
-# DeFi section:
+## DeFi section:
 
 - [ ] [Ultimative Guide for DeFi Basics](https://newsletter.thedefiant.io/p/the-defiants-definitive-guide-to)
 - [ ] [Short Videos explaining DeFi elements](https://finematics.com/guide-to-decentralized-finance/)
 - [ ] [Reports on different DeFi protocols](https://messari.io/research/defi) - Read it after you fully understand basics of DeFi field. Here you can find updates of existing DeFi projects and what happened to them recently.
 
 
+_in progress_ 
